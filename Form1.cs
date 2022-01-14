@@ -28,9 +28,7 @@ namespace FormElements
         CheckBox ch4;
         TextBox txtB;
         TabControl tabC;
-        TabPage tb;
         ListBox listBox1;
-        MainMenu menu;
         bool t = true;
         bool f = true;
         bool r = true;
